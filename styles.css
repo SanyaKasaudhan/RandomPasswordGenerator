@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  background-color: rgb(58, 55, 55);
+}
+.header{
+  margin: 3px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.copyBtn{
+  padding: 4px;
+  background-color : rgb(46, 110, 110);
+  color: whitesmoke;
+  border: white;
+}
+
+button{
+
+}
